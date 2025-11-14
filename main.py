@@ -4,7 +4,6 @@ import numpy as np
 import joblib
 import os
 from dotenv import load_dotenv
-from langchain.prompts import PromptTemplate
 import google.generativeai as genai
 import plotly.express as px
 import plotly.graph_objects as go
