@@ -108,7 +108,7 @@ Examples of **personalized interventions** based on risk factors:
 - 🔗 Connect directly with **scholarship portals** 🧾 and **mentorship platforms** 👩‍🏫  
 
 ---
-## Deployed link :https://dropoutriskpredictor-j.streamlit.app/
+## Deployed link :[https://dropoutriskpredictor-j.streamlit.app/](https://edu-lift.streamlit.app/)
 ---
 
 ## 🧡 Contribution  
